@@ -1,4 +1,4 @@
-import json
+import json 
 
 # ---------- Load contacts from file ----------
 try:
